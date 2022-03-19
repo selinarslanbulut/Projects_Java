@@ -1,4 +1,4 @@
-package Projects_Java.Day4.Homework3.entities.abstracts;
+package Projects_Java.Day_4.Homework3.entities.abstracts;
 
 public class Entity {
     private int id;

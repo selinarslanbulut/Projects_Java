@@ -1,6 +1,6 @@
-package Projects_Java.Day4.Homework3.business.abstracts;
+package Projects_Java.Day_4.Homework3.business.abstracts;
 
-import Projects_Java.Day4.Homework3.entities.concretes.Player;
+import Projects_Java.Day_4.Homework3.entities.concretes.Player;
 
 public interface PlayerService {
     void register(Player player);

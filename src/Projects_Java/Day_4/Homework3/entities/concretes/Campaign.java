@@ -1,6 +1,6 @@
-package Projects_Java.Day4.Homework3.entities.concretes;
+package Projects_Java.Day_4.Homework3.entities.concretes;
 
-import Projects_Java.Day4.Homework3.entities.abstracts.Entity;
+import Projects_Java.Day_4.Homework3.entities.abstracts.Entity;
 
 public class Campaign extends Entity {
     private String campaignName;

@@ -1,9 +1,9 @@
-package Projects_Java.Day4.Homework3.business.concretes;
+package Projects_Java.Day_4.Homework3.business.concretes;
 
-import Projects_Java.Day4.Homework3.business.abstracts.SalesService;
-import Projects_Java.Day4.Homework3.entities.concretes.Campaign;
-import Projects_Java.Day4.Homework3.entities.concretes.Game;
-import Projects_Java.Day4.Homework3.entities.concretes.Player;
+import Projects_Java.Day_4.Homework3.business.abstracts.SalesService;
+import Projects_Java.Day_4.Homework3.entities.concretes.Campaign;
+import Projects_Java.Day_4.Homework3.entities.concretes.Game;
+import Projects_Java.Day_4.Homework3.entities.concretes.Player;
 
 public class SalesManager implements SalesService {
     @Override

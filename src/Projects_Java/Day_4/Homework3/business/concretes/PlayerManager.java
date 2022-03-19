@@ -1,8 +1,8 @@
-package Projects_Java.Day4.Homework3.business.concretes;
+package Projects_Java.Day_4.Homework3.business.concretes;
 
-import Projects_Java.Day4.Homework3.business.abstracts.PlayerCheckService;
-import Projects_Java.Day4.Homework3.business.abstracts.PlayerService;
-import Projects_Java.Day4.Homework3.entities.concretes.Player;
+import Projects_Java.Day_4.Homework3.business.abstracts.PlayerCheckService;
+import Projects_Java.Day_4.Homework3.business.abstracts.PlayerService;
+import Projects_Java.Day_4.Homework3.entities.concretes.Player;
 
 public class PlayerManager implements PlayerService {
     private PlayerCheckService playerCheckService;

@@ -1,13 +1,13 @@
-package Projects_Java.Day4.Homework3.api;
+package Projects_Java.Day_4.Homework3.api;
 
-import Projects_Java.Day4.Homework3.business.abstracts.PlayerService;
-import Projects_Java.Day4.Homework3.business.concretes.GameManager;
-import Projects_Java.Day4.Homework3.business.concretes.PlayerCheckManager;
-import Projects_Java.Day4.Homework3.business.concretes.PlayerManager;
-import Projects_Java.Day4.Homework3.business.concretes.SalesManager;
-import Projects_Java.Day4.Homework3.entities.concretes.Campaign;
-import Projects_Java.Day4.Homework3.entities.concretes.Game;
-import Projects_Java.Day4.Homework3.entities.concretes.Player;
+import Projects_Java.Day_4.Homework3.business.abstracts.PlayerService;
+import Projects_Java.Day_4.Homework3.business.concretes.GameManager;
+import Projects_Java.Day_4.Homework3.business.concretes.PlayerCheckManager;
+import Projects_Java.Day_4.Homework3.business.concretes.PlayerManager;
+import Projects_Java.Day_4.Homework3.business.concretes.SalesManager;
+import Projects_Java.Day_4.Homework3.entities.concretes.Campaign;
+import Projects_Java.Day_4.Homework3.entities.concretes.Game;
+import Projects_Java.Day_4.Homework3.entities.concretes.Player;
 
 public class Main {
     public static void main(String[] args){

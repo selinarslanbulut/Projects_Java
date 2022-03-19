@@ -1,5 +1,5 @@
-package Projects_Java.Day4.Homework3.entities.concretes;
-import Projects_Java.Day4.Homework3.entities.abstracts.Entity;
+package Projects_Java.Day_4.Homework3.entities.concretes;
+import Projects_Java.Day_4.Homework3.entities.abstracts.Entity;
 
 public class Game extends Entity {
     private String gameName;
